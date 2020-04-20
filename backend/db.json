@@ -21,8 +21,8 @@
       "id": 4
     },
     {
-      "name": "Produto teste",
-      "price": 125.98,
+      "name": "Produto teste alterado",
+      "price": "127.99",
       "id": 5
     },
     {
