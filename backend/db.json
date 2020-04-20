@@ -29,6 +29,11 @@
       "name": "Produto do formulário",
       "price": "9.99",
       "id": 6
+    },
+    {
+      "name": "Lápis preto",
+      "price": "2.50",
+      "id": 7
     }
   ]
 }
